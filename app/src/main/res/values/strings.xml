@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prakt8_var10</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button_signin">Sign in</string>
+    <string name="menu_info">Тут будет меню</string>
+    <string name="exit">exit</string>
+    <string name="button_profile">Профиль</string>
+    <string name="user">Эмиль</string>
+    <string name="weather_1_value">35.7°C</string>
+    <string name="add_button">+</string>
+    <string name="register">Register</string>
+    <string name="default_city">Default город</string>
+    <string name="default_temperature">Default температура</string>
+    <string name="default_temperature_average">default средняя температура</string>
+    <string name="default_wind">Default ветер</string>
+</resources>
